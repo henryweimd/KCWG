@@ -1,0 +1,5 @@
+{
+  "name": "Kawaii Clinic w Gemini",
+  "description": "A cute, persistent and surprisingly accurate medical simulation game where you treat kawaii-style human patients. Features a local database for progress tracking and AI-generated patient cases.",
+  "requestFramePermissions": []
+}
